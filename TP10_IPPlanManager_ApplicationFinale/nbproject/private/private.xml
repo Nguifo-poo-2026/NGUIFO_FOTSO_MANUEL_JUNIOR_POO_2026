@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/console/ConsoleService.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/exception/AdresseIPInvalideException.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/exception/ChevauchementReseauException.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/exception/ConflitVLANException.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/main/Main.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/model/AdresseIP.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/model/BesoinReseau.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/model/Equipement.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/model/InfrastructureReseau.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/model/InterfaceReseau.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/model/Recommandation.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/model/ReseauIP.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/model/ResultatVLSM.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/model/SousReseau.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/model/VLAN.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/repository/BesoinRepository.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/repository/FichierPlanRepository.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/ApplicationIPPlanManager.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/CalculateurReseau.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/GestionnaireVLAN.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/MoteurRecommandation.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/RapportService.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/RecommandationAdministration.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/RecommandationGrandVLAN.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/RecommandationServeurs.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/RecommandationWifiInvite.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/RegleRecommandation.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/ValidateurPlanAdressage.java</file>
+            <file>file:/C:/Users/WORLD%20TECH%20STORE/Desktop/NGUIFO%20FOTSO%20MANUEL/POO/PROJET1-POO/PROJET1_POO/TP10_IPPlanManager_ApplicationFinale/src/IPPlanmanager/service/MoteurVLSM.java</file>
+        </group>
+    </open-files>
+</project-private>

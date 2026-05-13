@@ -1,0 +1,6 @@
+===== RECOMMANDATIONS IPPLAN-MANAGER =====
+
+[MOYENNE] VLAN de grande taille : Le VLAN ETUDIANTS possede une grande capacite. Il faut surveiller les broadcasts.
+[ELEVEE] Isolation du WiFi : Le VLAN WIFI_INVITES doit etre isole des VLANs internes sensibles.
+[MOYENNE] VLAN de grande taille : Le VLAN WIFI_INVITES possede une grande capacite. Il faut surveiller les broadcasts.
+[ELEVEE] Protection du VLAN Serveurs : Le VLAN SERVEURS doit etre protege par des ACL et surveille en priorite.
